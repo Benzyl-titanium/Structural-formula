@@ -1,6 +1,5 @@
 # 软件下载
-## kingdraw下载
-http://www.kingdraw.cn/index?name=download
+kingdraw:http://www.kingdraw.cn/index?name=download
 
 # 结构式
 麻醉药品目录结构式
