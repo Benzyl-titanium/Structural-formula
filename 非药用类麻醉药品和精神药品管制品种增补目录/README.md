@@ -10,7 +10,7 @@
 [芬太尼类物质.wiki](https://en.wikipedia.org/wiki/List_of_fentanyl_analogues)
 # 合成大麻素类物质列入《非药用类麻醉药品和精神药品管制品种增补目录》
 “合成大麻素类物质”是指具有下列化学结构通式的物质：  
-![合成大麻素类](https://github.com/Benzyl-titanium/Structural-formula/blob/main/%E9%9D%9E%E8%8D%AF%E7%94%A8%E7%B1%BB%E9%BA%BB%E9%86%89%E8%8D%AF%E5%93%81%E5%92%8C%E7%B2%BE%E7%A5%9E%E8%8D%AF%E5%93%81%E7%AE%A1%E5%88%B6%E5%93%81%E7%A7%8D%E5%A2%9E%E8%A1%A5%E7%9B%AE%E5%BD%95/%E5%A4%A7%E9%BA%BB%E7%B4%A0%E7%B1%BB.png)  
+![合成大麻素类](https://github.com/Benzyl-titanium/Structural-formula/blob/main/%E9%9D%9E%E8%8D%AF%E7%94%A8%E7%B1%BB%E9%BA%BB%E9%86%89%E8%8D%AF%E5%93%81%E5%92%8C%E7%B2%BE%E7%A5%9E%E8%8D%AF%E5%93%81%E7%AE%A1%E5%88%B6%E5%93%81%E7%A7%8D%E5%A2%9E%E8%A1%A5%E7%9B%AE%E5%BD%95/%E5%90%88%E6%88%90%E5%A4%A7%E9%BA%BB%E7%B4%A0%E7%B1%BB.png)  
 R1 代表取代或未取代的C3-C8烃基；取代或未取代的含有1-3个杂原子的杂环基；取代或未取代的含有1-3个杂原子的杂环基取代的甲基或乙基。  
 R2 代表氢或甲基或无任何原子。  
 R3 代表取代或未取代的C6-C10的芳基；取代或未取代的C3-C10的烃基；取代或未取代的含有1-3个杂原子的杂环基；取代或未取代的含有1-3个杂原子的杂环基取代的甲基或乙基。  
