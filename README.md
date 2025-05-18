@@ -1,6 +1,6 @@
-# [中国管制药品名录结构式&表格整合版](https://benzyl-titanium.pages.dev/posts/structural-formula/)
+## [中国管制药品名录结构式&表格整合版](https://benzyl-titanium.pages.dev/posts/structural-formula/)
 
-##[中文名，英文名，CAS 号，备注和结构式图片一一对应版本](https://benzyl-titanium.github.io/Structural-formula/)
+## [中文名，英文名，CAS 号，备注和结构式图片一一对应版本](https://benzyl-titanium.github.io/Structural-formula/)
 
 # 目录
 
