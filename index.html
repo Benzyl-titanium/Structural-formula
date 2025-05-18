@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Structural-formula</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/custom.css">
 </head>
 <body>
     <div>
         <blockquote><strong>移动端打开桌面版网站才能更好查看</strong></blockquote>
-        <blockquote><strong>制作不易给孩子一个star吧：</strong><a href="https://github.com/Benzyl-titanium/Structural-formula" aria-label="截至2024.07.01,中国全部的管制药品目录">GitHub项目地址</a></blockquote>
+        <blockquote><strong>制作不易给孩子一个star吧：</strong><a href="https://github.com/Benzyl-titanium/Structural-formula" aria-label="截至2024.07.01,中国全部的管制药品目录" target="_blank">GitHub项目地址</a></blockquote>
     </div>
     <div>
         <ul>
@@ -4172,7 +4173,7 @@
     </div>
     <footer style="text-align: center; padding: 20px; background-color: #f8f9fa;">
         <b>© 2025  
-            <a href="https://benzyl-titanium.pages.dev" title="Benzyl titanium's blog" target="_blank">Benzyl titanium.</a>
+            <a href="https://benzyl-titanium.netlify.app" title="Benzyl titanium's blog" target="_blank">Benzyl titanium.</a>
             <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="text-[var(--primary)] link whitespace-nowrap" target="_blank">CC BY-NC-SA 4.0</a>
         </b>
         <br>
@@ -4180,24 +4181,9 @@
             <a href="https://github.com/reymond-group/smilesDrawer" title="Kico Style" target="_blank">smilesDrawer</a>
         </b> 
     </footer>
-    <div id="back-to-top" class="back-to-top" onclick="scrollToTop()">
-        <span>Top</span>
-    </div>
 </body>
-<script>
-    window.onscroll = function() {
-        var button = document.getElementById('back-to-top');
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            button.classList.add('show');
-        } else {
-            button.classList.remove('show');
-        }
-    };
-    function scrollToTop() {
-        window.scrollTo({top: 0, behavior: 'smooth'});
-    }
-</script>
 <script type="text/javascript" src="js/smiles-drawer.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 <script>
     SmiDrawer.apply();
 </script>
