@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 10px;
     background-color: #f4f4f4;
+    box-sizing: border-box;
 }
 
 .container {
@@ -15,6 +16,7 @@ table {
     margin-top: 5px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
 }
 
 th, td {
@@ -38,31 +40,43 @@ tr:hover {
 a {
     text-decoration: none;
 }
-.back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #ff0000;
-    color: rgb(255, 255, 255);
-    border: none;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    display: flex;
-    align-items: center;
+
+.nav-list {
+    flex-wrap: wrap;
     justify-content: center;
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    z-index: 1000;
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
 }
-.back-to-top:hover {
-    background-color: #ff0000;
+
+.nav-list li {
+    margin-right: 10px;
+    margin-bottom: 5px;
 }
-.back-to-top.show {
-    opacity: 1;
+
+.nav-list li:last-child {
+    margin-right: 0;
 }
+
+.nav-list li a {
+    writing-mode: horizontal-tb;
+    text-orientation: mixed;
+    padding: 5px 10px;
+}
+
+.nav-list li::before {
+    content: "\2022";
+    color: #000000;
+    display: inline-block; 
+    width: 1px;
+    margin-left: 10px;
+}
+.github-badge a img {
+    vertical-align: middle;
+    display: block; /* Ensure block display */
+  }
 
 @media (max-width: 768px) {
     table {
@@ -72,37 +86,35 @@ a {
     }
 }
 
-@media (max-width: 1365px) {
+@media (max-width: 1495px) {
     body {
-        font-size: 14px;
+        font-size: 13px;
     }
     th, td {
         font-size: 12px;
     }
 }
-@media (max-width: 1100px) {
+@media (max-width: 1175px) {
     body {
-        font-size: 14px;
+        font-size: 12px;
     }
     th, td {
         font-size: 10px;
     }
 }
-@media (max-width: 960px) {
+@media (max-width: 1024px) {
     body {
-        font-size: 14px;
+        font-size: 12px;
     }
     th, td {
         font-size: 9px;
     }
 }
-@media (max-width: 888px) {
+@media (max-width: 937px) {
     body {
-        font-size: 12px;
+        font-size: 11px;
     }
     th, td {
-        font-size: 7px;
+        font-size: 8px;
     }
 }
-
-
