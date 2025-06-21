@@ -13,6 +13,6 @@
 
 ## 文件下载
 
-- [我国管制毒品目录表格（2025年7月更新，521种+三大类）](https://github.com/Benzyl-titanium/Structural-formula/releases/download/drugs/2025.07.01.xlsx)
+- [我国管制毒品目录表格（2025年7月更新，521种+三大类）](https://github.com/Benzyl-titanium/Structural-formula/releases/download/2025.07.01/2025.07.01.xlsx)
 
-- [截至2025.07.01中国管制药品结构式文件](https://github.com/Benzyl-titanium/Structural-formula/releases/download/drugs/Structural-formula.zip)
+- [截至2025.07.01中国管制药品结构式文件](https://github.com/Benzyl-titanium/Structural-formula/releases/download/2025.07.01/Structural-formula.zip)
