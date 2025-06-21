@@ -2523,4 +2523,119 @@ Z代表O或NH或无任何原子。
         </tr>
     </tbody>
 </table>
+
+## 将尼秦类物质和三氟乙咪酯等12中物质列入《非药用类麻醉药品和精神药品管制品种增补目录》（2025年7月1日起实施）【12种+整类】
+
+“尼秦类物质”是指化学结构与依托尼秦（2-[2-(4-乙氧基苄基)-5-硝基-1H-苯并咪唑-1-基]-N,N-二乙基-1-乙胺）相比,符合以下一个或多个条件的物质：  
+（一）使用取代或未取代的1H-苯并咪唑基替代5-硝基-1H-苯并咪唑基;  
+（二）使用取代或未取代的C1-C2烃基替代1H-苯并咪唑基与苯基之间的亚甲基;  
+（三）使用取代或未取代的芳香基团替代4-乙氧基苯基;  
+（四）使用取代或未取代的氨基替代N,N-二乙基氨基。  
+
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:100%;">
+    <tbody>
+        <tr>
+            <td style="width:48px;height:19px;"><strong>序号</strong></td>
+            <td style="width:180px;height:19px;"><strong>中文名</strong></td>
+            <td style="width:216px;height:19px;"><strong>英文名</strong></td>
+            <td style="width:108px;height:19px;"><strong>CAS号</strong></td>
+            <td style="width:168px;height:19px;"><strong>备注</strong></td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">1</td>
+            <td style="width:180px;height:19px;">三氟乙咪酯</td>
+            <td style="width:216px;height:19px;">2,2,2-trifluoroethyl 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;">2169968-54-9</td>
+            <td style="width:168px;height:19px;">TF-Etomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">2</td>
+            <td style="width:180px;height:19px;">丁托咪酯</td>
+            <td style="width:216px;height:19px;">butyl 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;">112367-53-0</td>
+            <td style="width:168px;height:19px;">Butomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">3</td>
+            <td style="width:180px;height:19px;">仲丁咪酯</td>
+            <td style="width:216px;height:19px;">butan-2-yl 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;">暂无</td>
+            <td style="width:168px;height:19px;">sec-Butomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">4</td>
+            <td style="width:180px;height:19px;">异丁咪酯</td>
+            <td style="width:216px;height:19px;">2-methylpropyl 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;">暂无</td>
+            <td style="width:168px;height:19px;">Isobutomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">5</td>
+            <td style="width:180px;height:19px;">4-氟依托咪酯</td>
+            <td style="width:216px;height:19px;">ethyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;">84962-75-4</td>
+            <td style="width:168px;height:19px;">4F-Etomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">6</td>
+            <td style="width:180px;height:19px;">甲氧羰基环丙咪酯</td>
+            <td style="width:216px;height:19px;">(1-methoxycarbonylcyclopropyl) 3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
+            <td style="width:108px;height:19px;"><del>3004006-31-6</del><br>1446482-29-6</td>
+            <td style="width:168px;height:19px;">ABP-700</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">7</td>
+            <td style="width:180px;height:19px;">2,6-二氯-3-氟依托咪酯</td>
+            <td style="width:216px;height:19px;">Ethyl-1-(1-(2,6-dichloro-3-fluorophenyl)ethyl)-1H-imidazole-5-carboxylate</td>
+            <td style="width:108px;height:19px;">暂无</td>
+            <td style="width:168px;height:19px;">2,6-diCl-3F-Etomidate</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">8</td>
+            <td style="width:180px;height:19px;">1-[3,4-(亚甲二氧基)苯基]-2-异丙氨基-1-丁酮</td>
+            <td style="width:216px;height:19px;">1-(1,3-benzodioxol-5-yl)-2-(propan-2-ylamino)butan-1-one</td>
+            <td style="width:108px;height:19px;">801171-25-5</td>
+            <td style="width:168px;height:19px;">N-Isopropylbutylone</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">9</td>
+            <td style="width:180px;height:19px;">噻吩丙胺</td>
+            <td style="width:216px;height:19px;">1-thiophen-2-ylpropan-2-amine</td>
+            <td style="width:108px;height:19px;">30433-93-3</td>
+            <td style="width:168px;height:19px;">Thienoamphetamine</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">10</td>
+            <td style="width:180px;height:19px;">1-[1-(3-甲氧基苯基)环己基]吡咯烷</td>
+            <td style="width:216px;height:19px;">1-[1-(3-methoxyphenyl)cyclohexyl]pyrrolidine</td>
+            <td style="width:108px;height:19px;">1364933-79-8</td>
+            <td style="width:168px;height:19px;">3-MeO-PCPy</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">11</td>
+            <td style="width:180px;height:19px;">2-苯基-2-丙氨基环己酮</td>
+            <td style="width:216px;height:19px;">2-phenyl-2-(propylamino)cyclohexan-1-one</td>
+            <td style="width:108px;height:19px;">7015-53-4</td>
+            <td style="width:168px;height:19px;">2-oxo-PCPr</td>
+        </tr>
+        <tr>
+            <td style="width:48px;height:19px;">12</td>
+            <td style="width:180px;height:19px;">六氢大麻酚</td>
+            <td style="width:216px;height:19px;">6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol</td>
+            <td style="width:108px;height:19px;">6692-85-9</td>
+            <td style="width:168px;height:19px;">hexahydrocannabinol(HHC)</td>
+        </tr>
+        <tr>
+            <td valign="top" width="57">
+            <p>0000</p></td>
+            <td valign="top" width="65.33333333333333">
+            <p>0000000000000000000</p></td>
+            <td valign="top" width="99.33333333333333">
+            <p>000000000000000000000000000000000000</p></td>
+            <td valign="top" width="92.33333333333331">
+            <p>00000000000000000000</p></td>
+            <td valign="center" width="66.33333333333333">0000000000000000000000</td>
+        </tr>
+    </tbody>
+</table>
 </body>
