@@ -1,4 +1,4 @@
-# [截至2025.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/structural-formula)
+# [截至2025.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula)
 
 ## [中国管制药品名录结构式&表格整合版](https://biantai.pages.dev/Structural-formula)
 
