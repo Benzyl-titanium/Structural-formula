@@ -199,7 +199,6 @@
             <td valign="center">Buprenorphine Transdermal patch</td>
             <td valign="center">&nbsp;</td>
             <td valign="center">&nbsp;</td>
-            <td valign="center">&nbsp;</td>
         </tr>
         <tr>
             <td valign="center">8</td>

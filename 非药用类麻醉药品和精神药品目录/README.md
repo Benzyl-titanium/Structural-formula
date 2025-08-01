@@ -1506,7 +1506,6 @@
             <td valign="center">Mitragyna speciosa</td>
             <td valign="center">无</td>
             <td valign="center">Kratom</td>
-            <td valign="center">&nbsp;</td>
         </tr>
         <tr>
             <td valign="center">215</td>
@@ -1661,7 +1660,6 @@
             <td valign="center">Catha edulis Forssk</td>
             <td valign="center">&nbsp;</td>
             <td valign="center">Khat</td>
-            <td valign="center">&nbsp;</td>
         </tr>
         <tr>
             <td valign="center">237</td>
@@ -2299,7 +2297,6 @@
             <td valign="center">Coca Leaf</td>
             <td valign="center">&nbsp;</td>
             <td valign="center">&nbsp;</td>
-            <td valign="center">&nbsp;</td>
         </tr>
         <tr>
             <td valign="center">328</td>
@@ -2565,6 +2562,7 @@
             <td valign="center">吗啡甲溴化物，及其他五价氮吗啡衍生物(特别是吗啡-N-氧化物的衍生物，例如可待因-N-氧化物)</td>
             <td valign="center">Morphine Methobromide, and other pentavalent nitrogen morphine derivatives, including in particular the morphine-N-oxide derivatives, one of which is codeine-N-oxide</td>
             <td valign="center">125-23-5</td>
+            <td valign="center">&nbsp;</td>
         </tr>
         <tr>
             <td valign="center">366</td>
