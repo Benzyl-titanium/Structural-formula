@@ -1,14 +1,12 @@
-# [截至2025.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula)
+# [管制药品结构式目录（2025年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
 
 ## 目录
 
-- [麻醉药品目录](麻醉药品目录/README.md)  
-- [第一类精神药品目录](第一类精神药品目录/README.md)  
-- [第二类精神药品目录](第二类精神药品目录/README.md)  
-- [非药用类麻醉药品和精神药品管制品种增补目录](非药用类麻醉药品和精神药品管制品种增补目录/README.md)  
+- [药用类麻醉药品目录](药用类麻醉药品目录/README.md)  
+- [药用类精神药品目录](药用类精神药品目录/README.md)  
+- [非药用类麻醉药品和精神药品目录](非药用类麻醉药品和精神药品目录/README.md)
 
-## 文件下载
+## 本仓库参考:
 
-- [我国管制毒品目录表格（2025年7月更新，521种+三大类）](https://github.com/Benzyl-titanium/Structural-formula/releases/download/2025.07.01/2025.07.01.xlsx)
-
-- [截至2025.07.01中国管制药品结构式文件](https://github.com/Benzyl-titanium/Structural-formula/releases/download/2025.07.01/Structural-formula.zip)
+**[国家药监局 公安部 国家卫生健康委关于发布药用类麻醉药品和精神药品目录的公告（2025 年第 55 号）](https://nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20250728092519123.html)**  
+**[三部门联合发布最新版《非药用类麻醉药品和精神药品目录》](https://mps.gov.cn/n6557558/c10150600/content.html)**
