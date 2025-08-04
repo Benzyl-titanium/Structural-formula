@@ -8,7 +8,7 @@
 
 ## 文件下载
 
-- [全部管制药品目录（2025年版）](https://github.com/Benzyl-titanium/Structural-formula/raw/main/全部管制药品目录（2025年版）.docx)
+- [全部管制药品目录（2025年版）](https://github.com/Benzyl-titanium/Structural-formula/raw/2025/全部管制药品目录（2025年版）.docx)
 
 ## 本仓库参考:
 
