@@ -1,6 +1,6 @@
 # [管制药品结构式目录（2025 年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
 
-- [Blog 源码](structured-catalogue.md)
+- [Blog 源码](assets/structured-catalogue.md)
 
 ## 目录
 
@@ -10,7 +10,7 @@
 
 ## 文件下载
 
-- [全部管制药品目录（2025 年版）](https://github.com/Benzyl-titanium/Structural-formula/raw/2025/全部管制药品目录（2025年版）.docx)
+- [全部管制药品目录（2025 年版）](https://github.com/Benzyl-titanium/Structural-formula/raw/2025/assets/全部管制药品目录（2025年版）.docx)
 
 ## 本仓库参考:
 

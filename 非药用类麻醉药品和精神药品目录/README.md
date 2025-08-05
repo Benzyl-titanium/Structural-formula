@@ -1581,7 +1581,7 @@
             <td valign="center">225</td>
             <td valign="center">甲氧羰基环丙咪酯</td>
             <td valign="center">(1-methoxycarbonylcyclopropyl)3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
-            <td valign="center"><del>3004006-31-6</del>1446482-29-6</td>
+            <td valign="center"><del>3004006-31-6</del><br>1446482-29-6</td>
             <td valign="center">ABP-700</td>
         </tr>
         <tr>

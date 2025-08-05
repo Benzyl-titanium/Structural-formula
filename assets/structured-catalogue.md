@@ -2924,7 +2924,7 @@ draft: false
             <td valign="center">225</td>
             <td valign="center">甲氧羰基环丙咪酯</td>
             <td valign="center">(1-methoxycarbonylcyclopropyl)3-[(1R)-1-phenylethyl]imidazole-4-carboxylate</td>
-            <td valign="center"><del>3004006-31-6</del>1446482-29-6</td>
+            <td valign="center"><del>3004006-31-6</del><br>1446482-29-6</td>
             <td valign="center">ABP-700</td>
             <td valign="center"><div class="smiles">COC(=O)C1(OC(=O)C2=CN=CN2[C@H](C)C2=CC=CC=C2)CC1</div></td>
         </tr>
