@@ -52,7 +52,7 @@ def copy_to_clipboard(text):
         print(f"无法复制到剪贴板: {e}")
 
 def smiles_to_image(smiles):
-    size = 100
+    size = 200
     format = "svg"
     if smiles == '':
         print("请输入有效的SMILES字符串")
