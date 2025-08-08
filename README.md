@@ -1,12 +1,11 @@
-# [管制药品结构式目录（2025 年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
+# 管制药品结构式目录（2025 年版）
 
 - [Blog 源码](assets/structured-catalogue.md)
 
-## 目录
+## 表格
 
-- [药用类麻醉药品目录](药用类麻醉药品目录/README.md)  
-- [药用类精神药品目录](药用类精神药品目录/README.md)  
-- [非药用类麻醉药品和精神药品目录](非药用类麻醉药品和精神药品目录/README.md)
+- [github](docs/index.md)
+- [blog](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
 
 ## 文件下载
 
