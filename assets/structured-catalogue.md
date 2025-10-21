@@ -1,7 +1,7 @@
 ---
 title: 管制药品结构式目录（2025年版）
 published: 2025-07-31
-updated: 2025-09-01
+updated: 2025-10-21
 description: "《药用类麻醉药品目录》，《药用类精神药品目录》和《非药用类麻醉药品和精神药品目录》的结构式版"
 image: "imgs/yaoju5.png"
 tags:
@@ -9,7 +9,6 @@ tags:
     药物,
     精神药品,
     管制化合物,
-    化合物,
     SMILES,
     smilesDrawer,
     CAS,
@@ -1031,7 +1030,7 @@ draft: false
         <tr>
             <td valign="center">69</td>
             <td valign="center">韦利西贝</td>
-            <td valign="center">Valiloxybate</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/Valiloxybate" target="_blank">Valiloxybate</a></td>
             <td valign="center">238401-16-6</td>
             <td valign="center">&nbsp;</td>
             <td valign="center"><div class="smiles">CC(C)[C@@H](C(=O)OCCCC(=O)O)N</div></td>
@@ -3388,8 +3387,8 @@ draft: false
         </tr>
         <tr>
             <td valign="center">283</td>
-            <td valign="center"><a href="https://en.wikipedia.org/wiki/3,4,5-Trimethoxyamphetamine" target="_blank">3,4,5-三甲氧基苯丙胺</a></td>
-            <td valign="center">1-(3,4,5-Trimethoxyphenyl)propan-2-amine</td>
+            <td valign="center">3,4,5-三甲氧基苯丙胺</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/3,4,5-Trimethoxyamphetamine" target="_blank">1-(3,4,5-Trimethoxyphenyl)propan-2-amine</a></td>
             <td valign="center">1082-88-8</td>
             <td valign="center">TMA</td>
             <td valign="center"><div class="smiles">COC1=C(OC)C(OC)=CC(CC(C)N)=C1</div></td>
