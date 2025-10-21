@@ -1004,7 +1004,7 @@
         <tr>
             <td valign="center">69</td>
             <td valign="center">韦利西贝</td>
-            <td valign="center">Valiloxybate</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/Valiloxybate" target="_blank">Valiloxybate</a></td>
             <td valign="center">238401-16-6</td>
             <td valign="center">&nbsp;</td>
             <td valign="center"><img src="images/CC%28C%29%5BC%40%40H%5D%28C%28%3DO%29OCCCC%28%3DO%29O%29N_200.svg"></td>
@@ -3361,8 +3361,8 @@
         </tr>
         <tr>
             <td valign="center">283</td>
-            <td valign="center"><a href="https://en.wikipedia.org/wiki/3,4,5-Trimethoxyamphetamine" target="_blank">3,4,5-三甲氧基苯丙胺</a></td>
-            <td valign="center">1-(3,4,5-Trimethoxyphenyl)propan-2-amine</td>
+            <td valign="center">3,4,5-三甲氧基苯丙胺</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/3,4,5-Trimethoxyamphetamine" target="_blank">1-(3,4,5-Trimethoxyphenyl)propan-2-amine</a></td>
             <td valign="center">1082-88-8</td>
             <td valign="center">TMA</td>
             <td valign="center"><img src="images/COC1%3DC%28OC%29C%28OC%29%3DCC%28CC%28C%29N%29%3DC1_200.svg"></td>

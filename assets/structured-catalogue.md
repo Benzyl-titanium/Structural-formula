@@ -28,10 +28,6 @@ draft: false
 英文名添加了wikipedia链接
 :::
 
-# 文件下载
-
-- <a href="/data/2025.docx" target="_blank"><b>全部管制药品目录（2025 年版）</b></a>
-
 # 药用类麻醉药品目录（2025 年版）
 
 <details>
@@ -4360,12 +4356,22 @@ CCOC1=CC=C(CC2=NC3=C(N2CCN(CC)CC)C=CC(N(=O)=O)=C3)C=C1
 
 注：1. 上述品种包含其可能存在的盐类、立体异构体及其盐类（另有规定的除外）。2. 上述 305-396 品种还包括其酯和醚，以及其酯和醚可能存在的盐类、立体异构体及其盐类（另有规定的除外）。
 
-# 本文章参考:
+# 备注
+
+## 文件下载
+
+- <a href="/data/2025.docx" target="_blank"><b>全部管制药品目录（2025 年版）</b></a>
+
+## 本文章参考:
 
 **[国家药监局 公安部 国家卫生健康委关于发布药用类麻醉药品和精神药品目录的公告（2025 年第 55 号）](https://nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20250728092519123.html)**  
 **[三部门联合发布最新版《非药用类麻醉药品和精神药品目录》](https://mps.gov.cn/n6557558/c10150600/content.html)**
 
-# 维基百科
+## 致谢
+
+::github{repo="reymond-group/smilesDrawer"}
+
+## 维基百科
 
 - [麻醉药品品种目录](https://zh.wikipedia.org/wiki/Template:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%BA%BB%E9%86%89%E8%8D%AF%E5%93%81%E5%93%81%E7%A7%8D%E7%9B%AE%E5%BD%95)
 - [精神药品品种目录](https://zh.wikipedia.org/wiki/Template:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%B2%BE%E7%A5%9E%E8%8D%AF%E5%93%81%E5%93%81%E7%A7%8D%E7%9B%AE%E5%BD%95)
