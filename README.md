@@ -21,3 +21,7 @@
 - [麻醉药品品种目录](https://zh.wikipedia.org/wiki/Template:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%BA%BB%E9%86%89%E8%8D%AF%E5%93%81%E5%93%81%E7%A7%8D%E7%9B%AE%E5%BD%95)
 - [精神药品品种目录](https://zh.wikipedia.org/wiki/Template:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%B2%BE%E7%A5%9E%E8%8D%AF%E5%93%81%E5%93%81%E7%A7%8D%E7%9B%AE%E5%BD%95)
 - [非药用类麻醉药品和精神药品名录](https://zh.wikipedia.org/wiki/%E9%9D%9E%E8%8D%AF%E7%94%A8%E7%B1%BB%E9%BA%BB%E9%86%89%E8%8D%AF%E5%93%81%E5%92%8C%E7%B2%BE%E7%A5%9E%E8%8D%AF%E5%93%81%E5%90%8D%E5%BD%95)
+
+## 许可
+
+<p xmlns:cc="http://creativecommons.org/ns#" ><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
