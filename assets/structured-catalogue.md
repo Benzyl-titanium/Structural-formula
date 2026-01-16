@@ -22,6 +22,8 @@ draft: false
 
 ::github{repo="Benzyl-titanium/Structural-formula"}
 
+# [更新日志](https://github.com/Benzyl-titanium/Structural-formula/releases)
+
 :::tip[提示]
 移动端打开桌面版网站才能完全显示  
 英文名添加了wikipedia链接
@@ -252,7 +254,7 @@ draft: false
         <tr>
             <td valign="center">27</td>
             <td valign="center">消旋啡烷</td>
-            <td valign="center"><a href="https://en.wikipedia.org/wiki/Levorphanol" target="_blank">Racemorphan</a></td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/Racemorphan" target="_blank">Racemorphan</a></td>
             <td valign="center">297-90-5</td>
             <td valign="center">&nbsp;</td>
             <td valign="center"><div class="smiles">CN1CC[C@]23CCCC[C@H]2[C@H]1CC1=CC=C(O)C=C13</div></td>
