@@ -226,7 +226,7 @@
         <tr>
             <td valign="center">27</td>
             <td valign="center">消旋啡烷</td>
-            <td valign="center"><a href="https://en.wikipedia.org/wiki/Levorphanol" target="_blank">Racemorphan</a></td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/Racemorphan" target="_blank">Racemorphan</a></td>
             <td valign="center">297-90-5</td>
             <td valign="center">&nbsp;</td>
             <td valign="center"><img src="images/CN1CC%5BC%40%5D23CCCC%5BC%40H%5D2%5BC%40H%5D1CC1%3DCC%3DC%28O%29C%3DC13_200.svg"></td>
