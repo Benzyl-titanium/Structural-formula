@@ -3560,7 +3560,7 @@ draft: false
             <td valign="center">1-(4-甲基苯基)-2-(N-吡咯烷基)-1-戊酮</td>
             <td valign="center"><a href="https://en.wikipedia.org/wiki/Pyrovalerone" target="_blank">1-(4-Methylphenyl)-2-(1-pyrrolidinyl)pentan-1-one</a></td>
             <td valign="center">3563-49-3</td>
-            <td valign="center">Pyrovalerone<br>4-MPVP></td>
+            <td valign="center">Pyrovalerone<br>4-MPVP</td>
             <td valign="center"><div class="smiles">CCCC(C(=O)C1=CC=C(C)C=C1)N1CCCC1</div></td>
         </tr>
         <tr>
