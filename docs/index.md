@@ -2699,7 +2699,7 @@
             <td valign="center">200</td>
             <td valign="center">1-(4-氟-3-甲基苯基)-2-(吡咯烷-1-基)-1-戊酮</td>
             <td valign="center"><a href="https://en.wikipedia.org/wiki/MFPVP" target="_blank">1-(4-Fluoro-3-methylphenyl)-2-(pyrrolidin-1-yl)pentan-1-one</a></td>
-            <td valign="center">暂无</td>
+            <td valign="center">1283478-02-3</td>
             <td valign="center">4-F-3-MPVP</td>
             <td valign="center"><img src="images/CCCC%28C%28%3DO%29C1%3DCC%3DC%28F%29C%28C%29%3DC1%29N1CCCC1_200.svg"></td>
         </tr>
