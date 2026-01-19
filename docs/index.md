@@ -3260,7 +3260,7 @@
             <td valign="center">N-羟基-3,4-亚甲二氧基苯丙胺</td>
             <td valign="center"><a href="https://en.wikipedia.org/wiki/3,4-Methylenedioxy-N-hydroxyamphetamine" target="_blank">N-(1-(3,4-Methylenedioxyphenyl)propan-2-yl)hydroxylamine</a></td>
             <td valign="center">74698-47-8</td>
-            <td valign="center">N-hydroxy<br>MDA</td>
+            <td valign="center">N-hydroxy-MDA</td>
             <td valign="center"><img src="images/CC%28CC1%3DCC%3DC2OCOC2%3DC1%29NO_200.svg"></td>
         </tr>
         <tr>
