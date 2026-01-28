@@ -3379,7 +3379,7 @@
             <td valign="center">285</td>
             <td valign="center">N-苄基甲基苯丙胺</td>
             <td valign="center"><a href="https://en.wikipedia.org/wiki/Benzphetamine" target="_blank">N-Benzyl-N-methyl-1-phenylpropan-2-amine</a></td>
-            <td valign="center">101-47-3</td>
+            <td valign="center">101-47-3 S:156-08-1</td>
             <td valign="center">Benzphetamine</td>
             <td valign="center"><img src="images/CC%28CC1%3DCC%3DCC%3DC1%29N%28C%29CC2%3DCC%3DCC%3DC2_200.svg"></td>
         </tr>

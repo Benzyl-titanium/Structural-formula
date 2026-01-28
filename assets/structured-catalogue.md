@@ -3407,7 +3407,7 @@ draft: false
             <td valign="center">285</td>
             <td valign="center">N-苄基甲基苯丙胺</td>
             <td valign="center"><a href="https://en.wikipedia.org/wiki/Benzphetamine" target="_blank">N-Benzyl-N-methyl-1-phenylpropan-2-amine</a></td>
-            <td valign="center">101-47-3</td>
+            <td valign="center">101-47-3 S:156-08-1</td>
             <td valign="center">Benzphetamine</td>
             <td valign="center"><div class="smiles">CC(CC1=CC=CC=C1)N(C)CC2=CC=CC=C2</div></td>
         </tr>
