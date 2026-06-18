@@ -1089,7 +1089,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.上述品种包括其可能存在的立体异构体（除非另有规定）。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.品种目录有\*的麻醉药品为我国生产及使用的品种。
 
-# 非药用类麻醉药品和精神药品目录（2025 年版）
+# 非药用类麻醉药品和精神药品目录（2026 年版）
 
 <details>
 <summary>表格</summary>
@@ -4270,6 +4270,134 @@
             <td valign="center">64-39-1</td>
             <td valign="center">&nbsp;</td>
             <td valign="center"><img src="images/CCC%28%3DO%29OC1%28C2%3DCC%3DCC%3DC2%29C%5BC%40H%5D%28C%29N%28C%29C%5BC%40H%5D1C_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">397</td>
+            <td valign="center">二氟乙咪酯</td>
+            <td valign="center">2,2-Difluoroethyl 3-(1-phenylethyl)imidazole-4-carboxylate</td>
+            <td valign="center">2169968-61-8</td>
+            <td valign="center">DF-Etomidate</td>
+            <td valign="center"><img src="images/CC%28N1C%28C%28OCC%28F%29F%29%3DO%29%3DCN%3DC1%29C1C%3DCC%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">398</td>
+            <td valign="center">4-氟美托咪酯</td>
+            <td valign="center">Methyl 3-[1-(4-fluorophenyl)ethyl]imidazole-4-carboxylate</td>
+            <td valign="center">737691-36-0</td>
+            <td valign="center">4F-Metomidate</td>
+            <td valign="center"><img src="images/COC%28C1N%28C%28C2C%3DCC%28F%29%3DCC%3D2%29C%29C%3DNC%3D1%29%3DO_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">399</td>
+            <td valign="center">4-甲基-1-[3,4-(亚甲二氧基)苯基]-2-(吡咯烷-1-基)-1-戊酮</td>
+            <td valign="center">1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-ylpentan-1-one</td>
+            <td valign="center">749145-17-3</td>
+            <td valign="center">MDPiHP</td>
+            <td valign="center"><img src="images/CC%28C%29CC%28C%28%3DO%29C1%3DCC%3DC2OCOC2%3DC1%29N1CCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">400</td>
+            <td valign="center">1-(4-溴苯基)-2-(吡咯烷-1-基)-1-戊酮</td>
+            <td valign="center">1-(4-bromophenyl)-2-(pyrrolidin-1-yl)hexan-1-one</td>
+            <td valign="center">850352-59-9</td>
+            <td valign="center">4-Br-α-PVP</td>
+            <td valign="center"><img src="images/CCCCC%28C%28%3DO%29C1%3DCC%3DC%28Br%29C%3DC1%29N1CCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">401</td>
+            <td valign="center">5-甲基-1-苯基-2-(吡咯烷-1-基)-1-己酮</td>
+            <td valign="center">5-methyl-1-phenyl-2-pyrrolidin-1-ylhexan-1-one</td>
+            <td valign="center">&nbsp;</td>
+            <td valign="center">α-PiHPP</td>
+            <td valign="center"><img src="images/CC%28C%29CCC%28C%28%3DO%29C1%3DCC%3DCC%3DC1%29N2CCCC2_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">402</td>
+            <td valign="center">2-乙氨基-1-苯基-1-戊酮</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/N-Ethylpentedrone" target="_blank">2-(ethylamino)-1-phenylpentan-1-one</a></td>
+            <td valign="center">779974-89-9</td>
+            <td valign="center">NEP</td>
+            <td valign="center"><img src="images/CCCC%28NCC%29C%28%3DO%29C1%3DCC%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">403</td>
+            <td valign="center">2-(仲丁基氨基)-1-[3,4-(亚甲二氧基)苯基]-1-丁酮</td>
+            <td valign="center">1-(2H-1,3-benzodioxol-5-yl)-2-[(butan-2-yl)amino]butan-1-one</td>
+            <td valign="center">&nbsp;</td>
+            <td valign="center">N-sec-Butylbutylone</td>
+            <td valign="center"><img src="images/CCC%28C%29NC%28CC%29C%28%3DO%29C1%3DCC%3DC2OCOC2%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">404</td>
+            <td valign="center">2-氨基-1-(4-溴-2,5-二氧基苯基)乙酮</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/%CE%92k-2C-B" target="_blank">2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone</a></td>
+            <td valign="center">807631-09-0</td>
+            <td valign="center">βk-2C-B</td>
+            <td valign="center"><img src="images/C1C%28Br%29%3DC%28OC%29C%3DC%28C%28%3DO%29CN%29C%3D1OC_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">405</td>
+            <td valign="center">2-(2-氟苯基)-2-丙氨基环己酮</td>
+            <td valign="center">2-(3-fluorophenyl)-2-(propylamino)cyclohexan-1-one</td>
+            <td valign="center">&nbsp;</td>
+            <td valign="center">2-FXPr</td>
+            <td valign="center"><img src="images/CCCNC1%28CCCCC1%3DO%29C1%3DCC%3DCC%28F%29%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">406</td>
+            <td valign="center">2-(2-氟苯基)-2-异丙氨基环己酮</td>
+            <td valign="center">2-(2-fluorophenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one</td>
+            <td valign="center">&nbsp;</td>
+            <td valign="center">2-FXiPr</td>
+            <td valign="center"><img src="images/CC%28NC1%28C%28%3DO%29CCCC1%29C1C%28F%29%3DCC%3DCC%3D1%29C_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">407</td>
+            <td valign="center">2-(3-甲氧基苯基)-2-(哌啶-1-基)环己酮</td>
+            <td valign="center">2-(3-methoxyphenyl)-2-(piperidin-1-yl)cyclohexan-1-one</td>
+            <td valign="center">&nbsp;</td>
+            <td valign="center">MXPCP</td>
+            <td valign="center"><img src="images/N1%28CCCCC1%29C1%28C%28%3DO%29CCCC1%29C1C%3DC%28OC%29C%3DCC%3D1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">408</td>
+            <td valign="center">N-乙基-1-(3-甲氧基苯基)环己胺</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/3-MeO-PCE" target="_blank">N-Ethyl-1-(3-methoxyphenyl)cyclohexanamine</a></td>
+            <td valign="center">1364933-80-1</td>
+            <td valign="center">3-MeO-PCE</td>
+            <td valign="center"><img src="images/CCNC1%28C2%3DCC%28OC%29%3DCC%3DC2%29CCCCC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">409</td>
+            <td valign="center">1-{1-[3,4-(亚甲二氧基)苯基]环己基}哌啶</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/MDPCP" target="_blank">1-[1-(1,3-benzodioxol-5-yl)cyclohexyl]piperidine</a></td>
+            <td valign="center">3034185-93-5</td>
+            <td valign="center">MDPCP</td>
+            <td valign="center"><img src="images/C1%3DC%28C2%28N3CCCCC3%29CCCCC2%29C%3DC2OCOC2%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">410</td>
+            <td valign="center">1-[1-(3-甲基苯基)环己基]哌啶</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/3-Me-PCP" target="_blank">1-[1-(3-methylphenyl)cyclohexyl]piperidine</a></td>
+            <td valign="center">2201-30-1</td>
+            <td valign="center">3-Me-PCP</td>
+            <td valign="center"><img src="images/CC1%3DCC%28C2%28N3CCCCC3%29CCCCC2%29%3DCC%3DC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">411</td>
+            <td valign="center">1-[1-(噻吩-2-基)环己基]吡咯烷</td>
+            <td valign="center">1-(1-thiophen-2-ylcyclohexyl)pyrrolidine</td>
+            <td valign="center">22912-13-6</td>
+            <td valign="center">TCPy</td>
+            <td valign="center"><img src="images/C1CN%28C2%28C3SC%3DCC%3D3%29CCCCC2%29CC1_200.svg"></td>
+        </tr>
+        <tr>
+            <td valign="center">412</td>
+            <td valign="center">替来他明</td>
+            <td valign="center"><a href="https://en.wikipedia.org/wiki/Tiletamine" target="_blank">2-Ethylamino-2-(2-thienyl)cyclohexanone</a></td>
+            <td valign="center">14176-49-9</td>
+            <td valign="center">Tiletamine<br>在中国境内批准上市的含替来他明的兽用麻醉药品除外.</td>
+            <td valign="center"><img src="images/CCNC1%28C2%3DCC%3DCS2%29CCCCC1%3DO_200.svg"></td>
         </tr>
     </tbody>
 </table>
