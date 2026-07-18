@@ -19,7 +19,7 @@
 
 ## 相关内容
 
-- [按结构式分类的管制药品目录（2025 年版）](https://benzyl-titanium.pages.dev/posts/drug/list_of_controlled_drugs/)
+- [按结构式分类的管制药品目录（2026 年版）](https://benzyl-titanium.pages.dev/posts/drug/list_of_controlled_drugs/)
 - [易制毒化学品结构式名录（2024年版）](https://benzyl-titanium.pages.dev/posts/drug/catalogue_of_precursor_chemicals/)
 
 ## 许可
